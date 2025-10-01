@@ -1,6 +1,6 @@
 # EffiSR-Net: A Comparative Analysis of Image Super-Resolution Models
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/github-2512/ImageResolution/blob/main/ImageResolution.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](h[ttps://colab.research.google.com/github/github-2512/ImageResolution/blob/main/ImageResolution.ipynb](https://colab.research.google.com/drive/1ygy1ZC90mm5iPHFWU7lRY6rxKa4bmqLc?usp=sharing))
 
 This repository contains the code and results for a comparative study of Single Image Super-Resolution (SISR) models. It evaluates our proposed model, **EffiSR-Net**, against state-of-the-art models like **ESRGAN** and **SwinIR** on the standard **Set5** benchmark dataset.
 
